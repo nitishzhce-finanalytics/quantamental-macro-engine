@@ -1,7 +1,4 @@
 # quantamental-macro-engine
-Macroeconomic forecasting system for Indian equity market regime identification — OLS, ARIMA, GARCH, Random Forest
-# Macro-Driven Equity Return Forecasting & Regime Identification System
-
 A quantitative macro research project analyzing the relationship between Indian macroeconomic conditions and sectoral equity returns using econometric and machine learning techniques.
 
 ## Objective
