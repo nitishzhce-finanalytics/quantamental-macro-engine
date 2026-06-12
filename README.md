@@ -34,7 +34,7 @@ This project aims to:
 
 * PCA (Dimensionality Reduction)
 * K-Means Clustering (Regime Detection)
-* Random Forest Regression
+* Random Forest-Based Return Forecasting
 
 ### Statistical Diagnostics
 
@@ -105,6 +105,14 @@ macro-regime-forecaster/
 * Regime-Switching Portfolio Allocation
 * XGBoost-based Forecasting
 * Interactive Dashboard Deployment
+
+---
+
+## Preliminary Findings
+
+- Banking and IT sectors showed higher sensitivity to interest-rate regimes
+- Volatility clustering intensified during tightening cycles
+- PCA-based regime separation aligned broadly with RBI monetary cycles
 
 ---
 
