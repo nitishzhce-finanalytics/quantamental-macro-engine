@@ -109,11 +109,7 @@ macro-regime-forecaster/
 ---
 
 ## Preliminary Findings
-
-- Banking and IT sectors showed higher sensitivity to interest-rate regimes
-- Volatility clustering intensified during tightening cycles
-- PCA-based regime separation aligned broadly with RBI monetary cycles
-
+Under Active Development
 ---
 
 ## Disclaimer
